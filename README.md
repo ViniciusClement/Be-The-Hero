@@ -1,7 +1,2 @@
 ﻿# Be-The-Hero
-# Tecnologias utilizadas
-# Express
-# nodemon
-# insominia
-# react-router-dom
-# knex
+# Tecnologias utilizadas # Express # nodemon # insominia # react-router-dom # knex
