@@ -6,7 +6,7 @@
 
   display:flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 
 }
 
@@ -24,17 +24,4 @@
   margin-bottom:32px;
 }
 
-.logon-container section.form a {
-  display:flex;
-  align-items: center;
-  margin-top:40px;
-  color:#41414d;
-  font-size: 18px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: opacity .2s;
-}
 
-.logon-container section.form a:hover {
-    opacity: 0.8;
-}
