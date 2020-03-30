@@ -6,3 +6,6 @@
 # react-router-dom 
 # knex
 #Axios
+#expo
+#android studio
+#react-navegation
